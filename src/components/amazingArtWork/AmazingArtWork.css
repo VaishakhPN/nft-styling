@@ -1,0 +1,31 @@
+.AmazingArtWork{
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 64px;
+    justify-content: center;
+    padding: 92px 111px;
+}
+
+.head{
+    background-color: var(--backgroundbackground-2);
+    filter: blur();
+    height: 305px;
+    position: absolute;
+    left: 1133px;
+    top: 800px;
+    width: 434px;
+}
+
+.title{
+    align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+
+
