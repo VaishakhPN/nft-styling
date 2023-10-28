@@ -1,9 +1,9 @@
 import React from "react";
-import CreamRobo from "../../assets/robocream.png";
-import ThreeRobo from "../../assets/3men.png";
-import DroneGirl from "../../assets/drone-girl.png";
-import CyberPunk from "../../assets/cyberpunk.png";
-import FlyRobo from "../../assets/robot2.png";
+import CreamRobo from "../../assets/group6.png";
+import ThreeRobo from "../../assets/group7.png";
+import DroneGirl from "../../assets/group8.png";
+import CyberPunk from "../../assets/group9.png";
+import FlyRobo from "../../assets/group10.png";
 import "./Popular.css";
 
 const Popular =() =>{
