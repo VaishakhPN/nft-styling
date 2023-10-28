@@ -1,12 +1,53 @@
+.popular{
+    margin-top: 100px;
+}
 
+.head-btn{
+    position: relative;
+    display: flex;
+    /* margin-top: 600px; */
+    justify-content: space-between;
+}
+
+.heading4{
+    position: absolute;
+    top: 600px;
+    left: 150px;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 27.6px;
+
+}
+
+.btbn{
+    position: absolute;
+    top: 600px;
+    left: 1200px;
+    width: 134px;
+    height: 52px;
+    border-radius: 8px;
+    padding: 12px 40px;
+}
 
 .pics3{
-    position: absolute;
+display: flex;
+/* flex-wrap: wrap; */
+/* flex: 1; */
+margin-top: 800px;
+gap: 20px;
 }
 
-.flyrobo{
-    /* position: relative; */
-    width: 410px;
-    height: 652px;
-    left: 1000px;
+.pics4{
+    width: 850px;
+    margin-left: 90px;
+    /* display: flex; */
+    
 }
+
+.pics4 > * {
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+
+
