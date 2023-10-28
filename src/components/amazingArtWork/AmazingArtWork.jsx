@@ -8,18 +8,16 @@ import Robot1 from "../../assets/robot1.png";
 const AmazingArtWork = () =>{
     return(
         <div className="AmazingArtWork">
-            <div className="head">
-                <p className="title">
-                    <span className="amazing-week">Amazing</span>
-                    <span className="span"> {" "}
-                    and Super <br />
-                    Unique Art of this {""}
-                    </span>
-                    <span className="amazing-week">Week</span>
-                </p>
-                <button className="btn">
-                    <div className="div">See All</div>
-                </button>
+            <div className="heading">
+                <div className="heading1">                
+                <h1><span>Amazing</span> and Super</h1>
+                <h1>Unique Art of This <span>Week</span></h1>
+                </div>
+                <div>
+                    <div>
+                        <button className="btbn">See All</button>
+                    </div>
+                </div>
             </div>
             <div className="cards">
                 <Element Name="Cyberpunk Cocomo" Image={MaskMan}></Element>

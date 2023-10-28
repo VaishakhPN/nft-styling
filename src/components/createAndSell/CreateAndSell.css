@@ -1,0 +1,82 @@
+.createandsell{
+    position: absolute;
+    /* width: 1012px; */
+    /* height: 743px; */
+    top: 1587px;
+    padding: 92px 0px;
+    gap: 124px;
+}
+
+.main-content2{
+    position: absolute;
+    width: 426px;
+    height: 280px;
+    gap: 40px;
+    top: 320px;
+    left: 100px;
+}
+
+.heading3{
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 29px;
+    line-height: 20.6px;
+}
+
+.ptag{
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25.6px;
+    margin-top: 50px;
+}
+
+.btn-set{
+    display: flex;
+    flex-direction: row;
+}
+
+.buttn{
+    width: 176px;
+    height: 52px;
+    border-radius: 8px;
+    padding: 12px 40px;
+    background-color: #D6EF0E;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: 50px;
+}
+
+.pics2{
+    position: relative;
+    width: 740px;
+    height: 559px;
+}
+
+.catmask{
+    position: absolute;
+    width: 410px;
+    height: 475px;
+    top: 92px;
+    left: 991px;
+}
+
+.terminator{
+    position: absolute;
+    width: 410px;
+    height: 400px;
+    top: 251px;
+    left: 661px;
+}
+
+.ptag2{
+    position: absolute;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19.5px;
+    top: 287px;
+    left: 230px;
+}
+

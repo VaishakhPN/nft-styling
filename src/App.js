@@ -2,7 +2,11 @@ import React from "react";
 import './App.css';
 import NavBar from "./components/header/NavBar";
 import Hero from "./components/hero/Hero";
-// import AmazingArtWork from "./components/amazingArtWork/AmazingArtWork";
+import AmazingArtWork from "./components/amazingArtWork/AmazingArtWork";
+import CreateAndSell from "./components/createAndSell/CreateAndSell";
+import Subscribe from "./components/subscribe/Subscribe"
+import Footer from "./components/footer/Footer";
+import Popular from "./components/popular/Popular";
 
 
 const App = () => {
@@ -10,7 +14,11 @@ const App = () => {
     <div>
       <NavBar />
       <Hero />
-      {/* <AmazingArtWork /> */}
+      <AmazingArtWork />
+      <CreateAndSell />
+      <Popular />
+      <Subscribe />
+      <Footer />
     </div>
   );
 }

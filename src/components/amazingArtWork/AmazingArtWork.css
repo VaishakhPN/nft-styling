@@ -5,6 +5,8 @@
     gap: 64px;
     justify-content: center;
     padding: 92px 111px;
+    height: 862px;
+    
 }
 
 .head{
@@ -29,3 +31,50 @@
 
 
 
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-left: 50px;
+}
+
+.btbn{
+    position: absolute;
+    padding: 13px 25px;
+    background-color:#D6EF0E;
+    color: white;
+    border: 0;
+    border-radius: 8px;
+    gap: 12px;
+    font-weight: 700;
+    font-size: 16px;
+    margin-top: 50px;
+}
+
+
+.heading1>h1{
+    margin: 0;
+}
+.heading1{
+    
+    font-weight: 700;
+    width: 500px;
+    font-size: 20px;
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+    gap: 450px;
+    color: white;
+    margin-right: 60px;
+
+}
+h1 > span{
+    color: #D6EF0E;
+}
+.cards>*{
+    width: 300px;
+}
+.img{
+    width: 300px;
+}

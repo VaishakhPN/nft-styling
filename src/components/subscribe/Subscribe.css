@@ -1,0 +1,47 @@
+.subscribe{
+    position: relative;
+    top: 1500px;
+}
+
+.subs-content{
+    color: white;
+}
+.cro-girl{
+    position: absolute;
+    width: 410px;
+    height: 376px;
+    top: 171.55px;
+    left: 111px;
+}
+
+.robo-sam{
+    position: absolute;
+    width: 282px;
+    height: 348px;
+    top: 260px;
+    left: 410px;
+}
+.subs-content{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.subs-content{
+    color:white;
+    position: absolute;
+    width: 520px;
+    height: 288px;
+    top: 200px;
+    right: 100px;
+}
+
+.heading2{
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 25.6px;
+}
+
+.span {
+    color: #D6EF0E;
+}

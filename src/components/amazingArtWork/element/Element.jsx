@@ -22,10 +22,10 @@ const Element = ({Name, Image}) =>{
                             <img className="icon" alt="timer-clock" src={Clock} />
                             <div className="amount-time">03:24:56</div>
                         </div>
-                    </div>
-                    <button className="btn">
+                        </div>
+<div>                    <button className="btnn">
                         <div className="bid">Place A Bid</div>
-                    </button>
+                    </button></div>
                 </div>
             </div>
         </div>
