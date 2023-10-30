@@ -20,14 +20,18 @@
 
 }
 
-.btbn{
+.bttbn{
     position: absolute;
-    top: 600px;
+    top: 660px;
     left: 1200px;
     width: 134px;
     height: 52px;
     border-radius: 8px;
     padding: 12px 40px;
+    background-color: #D6EF0E;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 15px;
 }
 
 .pics3{

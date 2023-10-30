@@ -14,7 +14,7 @@ const Popular =() =>{
                     <h1>Popular <span>Artists</span></h1>              
                     <h1>On This Week</h1>
                 </div>
-                <button className="btbn">See All</button>
+                <button className="bttbn">See All</button>
             </div>
             <div className="pics3">
                 <div className="pics4">
